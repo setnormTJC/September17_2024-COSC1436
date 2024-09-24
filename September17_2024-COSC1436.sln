@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "startingGoogleEarthExtraCre
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyVersionOfTheDataTableLab", "MyVersionOfTheDataTableLab\MyVersionOfTheDataTableLab.vcxproj", "{563633FA-AA4A-4BEF-B605-77EDD11B32EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo output file writing", "September24\September24.vcxproj", "{7CF28D79-AC25-4455-A69F-E8AC7AC53877}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo reading FROM and INPUT file", "Demo reading FROM and INPUT file\Demo reading FROM and INPUT file.vcxproj", "{6D84E71B-59E2-419C-B272-46F9C1A15CCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,22 @@ Global
 		{563633FA-AA4A-4BEF-B605-77EDD11B32EE}.Release|x64.Build.0 = Release|x64
 		{563633FA-AA4A-4BEF-B605-77EDD11B32EE}.Release|x86.ActiveCfg = Release|Win32
 		{563633FA-AA4A-4BEF-B605-77EDD11B32EE}.Release|x86.Build.0 = Release|Win32
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Debug|x64.ActiveCfg = Debug|x64
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Debug|x64.Build.0 = Debug|x64
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Debug|x86.Build.0 = Debug|Win32
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Release|x64.ActiveCfg = Release|x64
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Release|x64.Build.0 = Release|x64
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Release|x86.ActiveCfg = Release|Win32
+		{7CF28D79-AC25-4455-A69F-E8AC7AC53877}.Release|x86.Build.0 = Release|Win32
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Debug|x64.ActiveCfg = Debug|x64
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Debug|x64.Build.0 = Debug|x64
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Debug|x86.Build.0 = Debug|Win32
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Release|x64.ActiveCfg = Release|x64
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Release|x64.Build.0 = Release|x64
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Release|x86.ActiveCfg = Release|Win32
+		{6D84E71B-59E2-419C-B272-46F9C1A15CCE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

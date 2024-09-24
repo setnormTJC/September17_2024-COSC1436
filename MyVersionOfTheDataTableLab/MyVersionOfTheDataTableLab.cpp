@@ -24,4 +24,10 @@ int main()
 	cout << left << setw(10) << 13.99; 
 	cout << left << setw(30) << "Not sturdy - don't buy 'em";
 
+
+	//std::cout << "\ndefault fill: [" << std::m
+	//	<< std::setw(10) << 42 << "]\n"
+	//	<< "setfill('*'): [" << std::setfill('*')
+	//	<< std::setw(10) << 42 << "]\n";
+
 }
